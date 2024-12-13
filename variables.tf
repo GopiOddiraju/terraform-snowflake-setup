@@ -8,3 +8,8 @@ variable "password" {
     type = string
     sensitive = true
 }
+
+variable "account_name" {}
+
+variable "organization_name" {}
+
